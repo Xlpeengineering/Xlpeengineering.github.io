@@ -2,4 +2,5 @@ title: XLPE ENGINEERING
 logo
 description: Electrical Contractor | Electrical Works
 #show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+bundle install
+
