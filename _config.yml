@@ -1,9 +1,5 @@
 title: XLPE ENGINEERING
-logo: docs/assets/Screenshot_2024-10-27-11-09-47-95.jpg
-#logo {
-  width: 150px;  /* Adjust the width to suit your design */
-  height: auto;  /* Keeps the aspect ratio */
-}
+logo: 
 description: Electrical Contractor | Electrical Works
 #show_downloads: true
 theme: jekyll-theme-slate
