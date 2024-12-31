@@ -1,6 +1,5 @@
 title: XLPE ENGINEERING
-logo
+
 description: Electrical Contractor | Electrical Works
 #show_downloads: true
-bundle install
-
+theme: jekyll-theme-slate
