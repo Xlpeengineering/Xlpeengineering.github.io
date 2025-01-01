@@ -1,5 +1,5 @@
 title: XLPE ENGINEERING
-logo: docs/assets/XLPE LOGO.jpg  
+logo: <img src="docs/assets/XLPE_LOGO.jpg" alt="XLPE Logo" class="logo" style="margin-right: 20px;">  
 description: Electrical Contractor | Electrical Works
 #show_downloads: true  
 themes: pages-themes/minimal@v0.2.0
